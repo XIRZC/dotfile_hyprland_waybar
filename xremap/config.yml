@@ -1,0 +1,8 @@
+modmap:
+  - name: Global
+    remap:
+      # CapsLock/Ctrl_L -> Esc
+      CapsLock: Esc
+      Ctrl_L: Alt_L
+      Esc: CapsLock
+      Alt_L: Ctrl_L
